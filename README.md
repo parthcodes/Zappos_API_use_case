@@ -11,3 +11,7 @@ This file have following functions.
 - Zappos search API.
 - JSON data parsing.
 - Send Email to users.
+
+
+
+** More information is added as comments in the codes.

@@ -5,3 +5,9 @@ Zappos_API_use_case
 
 
 2. Scheduled_Check.php : This file is deployed on the server that has CronJob function & Email send function. Which will check the database at set interval and notify the user via email.
+This file have following functions.
+
+- cron job on the database.
+- Zappos search API.
+- JSON data parsing.
+- Send Email to users.
